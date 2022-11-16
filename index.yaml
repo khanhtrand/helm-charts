@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  currency-exchange:
+  - apiVersion: v2
+    appVersion: 0.0.12-SNAPSHOT
+    created: "2022-11-16T14:02:36.9013787+07:00"
+    description: A Helm chart for Kubernetes
+    digest: e3e28c1ad96b50054564a5f49315dea457327e653733973b66f2736b74deda86
+    name: currency-exchange
+    type: application
+    urls:
+    - publish/currency-exchange-0.1.0.tgz
+    version: 0.1.0
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-16T14:02:36.9090497+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 38e249f9382e86bca9a2acb10deb11753ec2efa063278d4ad1d2575e77acbed5
+    name: nginx
+    type: application
+    urls:
+    - publish/nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-16T14:02:36.8925535+07:00"
